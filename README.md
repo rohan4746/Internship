@@ -1,2 +1,2 @@
-# Internship
+# OCTANET_JUNE
 Intern tasks
